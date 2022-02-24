@@ -1,0 +1,59 @@
+header{
+    text-align: center;
+    height: 100px;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.box{
+    display: inline-block;
+    width: 470px;
+    height: 200px;
+    background-color: gray;
+    margin: 15px;
+    border: solid 3px black;
+}
+
+.up{
+    float: right;
+    background-color: aqua;
+    width: 200px;
+    height: 30px;
+    padding: 5px;
+    text-align: center;
+    font-size: 25px;
+    border: solid 3px black;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    margin: 0;
+}
+
+
+.left{
+    float: left;
+    padding: 15px;
+}
+
+#chi{
+    background-color: pink;
+}
+
+#be{
+    background-color: red;
+    color: white;
+}
+
+#su{
+    background-color: yellow;
+}
+
+
+footer{
+    background-color: gray;
+    margin: 0px;
+    padding: 10px;
+    border: solid 3px black;
+}
